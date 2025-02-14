@@ -20,20 +20,8 @@ read -p "Rancho ka poora naam kya tha ?" fullname
 
 echo "Rancho ka poora naam $fullname tha"
 
+
+
 # arguments
- 
 
-# ./3_idiots.sh raju farhan rancho
-
-
-echo "movie ka naam : $0"
-
-echo "first idiot : $1"
-
-echo "second idiot :$2"
-
-echo "third idiot :$3"
-
-
-echo "Hence the 3 idiots are :$@"
 
